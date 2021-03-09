@@ -1,7 +1,4 @@
 /* 
- *  Name: Aaron Crum
- *  CSU ID: 2698195 
- *  CIS 265: Lab 2
  *  Description: A Java Program that calculates the energy needed to heat water from an initial temperature to a final temperature
 */
 
